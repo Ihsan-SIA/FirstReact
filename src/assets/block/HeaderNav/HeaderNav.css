@@ -1,0 +1,25 @@
+.main-header{
+    align-items: center;
+}
+.left-header{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.right-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2%;
+    border: 2px solid black;
+    width: 15%;
+}
+button{
+    height: 35px;
+    width: 90px;
+    background: none;
+    color: black;
+}
+.reg{
+    border: 2px solid black;
+    
+}

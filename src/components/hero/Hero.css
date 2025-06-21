@@ -1,0 +1,6 @@
+.hero-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 5em;
+    padding-top: 5em;
+}
