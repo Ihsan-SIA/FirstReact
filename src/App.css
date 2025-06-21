@@ -2,3 +2,9 @@
     background-color: red;
     
 }
+.all-components{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 20% 70% 10%;
+    padding: 0 2.5em;
+  }

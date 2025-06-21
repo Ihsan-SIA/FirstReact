@@ -10,7 +10,6 @@
     display: flex;
     justify-content: space-between;
     padding: 0 2%;
-    border: 2px solid black;
     width: 15%;
 }
 button{
@@ -21,5 +20,5 @@ button{
 }
 .reg{
     border: 2px solid black;
-    
+
 }
