@@ -7,3 +7,33 @@
     padding: .5em 3em;
     
 }
+
+.mobile-menu {
+    display: none;
+}
+
+.mobile-menu img {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .main-header {
+        padding: .5em 1em;
+    }
+    
+    .mobile-menu {
+        display: block;
+    }
+    
+    .left-header nav,
+    .right-header {
+        display: none;
+    }
+    
+    .left-header {
+        width: auto;
+    }
+}

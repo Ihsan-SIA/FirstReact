@@ -8,6 +8,9 @@ const Header = () =>{
             {/* <h1>This is the header</h1> */}
             <HeaderNav1 />
             <HeaderNav2 />
+            <div className="mobile-menu">
+                <img src="./menu.png" alt="menu" />
+            </div>
         </div>
     )
 }
